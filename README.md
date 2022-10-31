@@ -1,17 +1,17 @@
 ### Hi!👋 I'm Miguel
-- I'm a PhD in mathematics ([here](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/0/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/miguel+pereira+equivariant/docId/95736) is my thesis if you want to take a look)
-- I'm also interested in machine learning, algorithm design, and other CS topics
-- I usualy code in Python and write with LaTeX
-- Finally, I enjoy trying to solve [brainteasers](https://github.com/miguelbper/jane-street-puzzles)
+- 🎓 I'm a PhD in mathematics ([here](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/0/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/miguel+pereira+equivariant/docId/95736) is my thesis if you want to take a look)
+- 👨‍💻️ I'm also interested in machine learning, algorithm design, and other CS topics
+- 🐍 I usually code in Python and write with LaTeX
+- 🤔 And I also enjoy trying to solve [brainteasers](https://github.com/miguelbper/jane-street-puzzles)
 
 ### Technologies
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudio&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-LaTeX-green?style=flat&logo=latex&logoColor=white)
-![](https://img.shields.io/badge/Libraries-NumPy-orange?style=flat&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Libraries-pandas-yellow?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Libraries-scikit--learn-yellow?style=flat&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Libraries-SymPy-yellow?style=flat&logo=sympy&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-LaTeX-brightgreen?style=flat&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/Libraries-NumPy-red?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Libraries-pandas-red?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Libraries-scikit--learn-red?style=flat&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Libraries-SymPy-red?style=flat&logo=sympy&logoColor=white)
 
 
 <!--### Hi there 👋-->
@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://shields.io/ -->
+<!-- https://simpleicons.org/ -->
