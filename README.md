@@ -1,8 +1,8 @@
 ### Hi!👋 I'm Miguel
-- I'm a PhD in mathematics (here is my thesis if you want to take a look)
+- I'm a PhD in mathematics (![here](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/0/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/miguel+pereira+equivariant/docId/95736) is my thesis if you want to take a look)
 - I'm also interested in machine learning, algorithm design, and other CS topics
-- I use Python and LaTeX frequently
-- I enjoy trying to solve brainteasers
+- About coding, I use Python and LaTeX frequently
+- Finally, I enjoy trying to solve brainteasers
 
 ### Technologies
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudio&logoColor=white)
