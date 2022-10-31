@@ -1,12 +1,16 @@
-Hi!👋 I'm Miguel
-
+### Hi!👋 I'm Miguel
 - I'm a PhD in mathematics (here is my thesis if you want to take a look)
 - I'm also interested in machine learning, algorithm design, and other CS topics
 - I use Python and LaTeX frequently
 - I enjoy trying to solve brainteasers
 
-Technologies
+### Technologies
+![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-LaTeX-blue?style=flat&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/Libraries-NumPy-blue?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Libraries-pandas-blue?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Libraries-scikit--learn-blue?style=flat&logo=scikitlearn&logoColor=white)
 
 
 <!--### Hi there 👋-->
