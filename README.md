@@ -6,11 +6,12 @@
 
 ### Technologies
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudio&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-LaTeX-blue?style=flat&logo=latex&logoColor=white)
-![](https://img.shields.io/badge/Libraries-NumPy-blue?style=flat&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Libraries-pandas-blue?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Libraries-scikit--learn-blue?style=flat&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-LaTeX-green?style=flat&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/Libraries-NumPy-yellow?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Libraries-pandas-yellow?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Libraries-scikit--learn-yellow?style=flat&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Libraries-SymPy-yellow?style=flat&logo=sympy&logoColor=white)
 
 
 <!--### Hi there 👋-->
