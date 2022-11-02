@@ -9,10 +9,10 @@
 ![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Haskell-brightgreen?style=flat&logo=haskell&logoColor=white)
 ![](https://img.shields.io/badge/Code-LaTeX-brightgreen?style=flat&logo=latex&logoColor=white)
-![](https://img.shields.io/badge/Libraries-NumPy-red?style=flat&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Libraries-pandas-red?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Libraries-scikit--learn-red?style=flat&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Libraries-SymPy-red?style=flat&logo=sympy&logoColor=white)
+![](https://img.shields.io/badge/Library-NumPy-red?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Library-pandas-red?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Library-scikit--learn-red?style=flat&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Library-SymPy-red?style=flat&logo=sympy&logoColor=white)
 
 
 <!--### Hi there 👋-->
