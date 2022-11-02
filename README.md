@@ -1,12 +1,13 @@
 ### Hi!👋 I'm Miguel
 - 🎓 I'm a PhD in mathematics ([here](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/0/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/miguel+pereira+equivariant/docId/95736) is my thesis if you want to take a look)
 - 👨‍💻️ I'm also interested in machine learning, algorithm design, and other CS topics
-- 🐍 I usually code in Python and write with LaTeX
+- 🐍 I usually code in Python (and Haskell, sometimes) and write with LaTeX
 - 🤔 And I also enjoy trying to solve [brainteasers](https://github.com/miguelbper/jane-street-puzzles)
 
 ### Technologies
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-Haskell-brightgreen?style=flat&logo=haskell&logoColor=white)
 ![](https://img.shields.io/badge/Code-LaTeX-brightgreen?style=flat&logo=latex&logoColor=white)
 ![](https://img.shields.io/badge/Libraries-NumPy-red?style=flat&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Libraries-pandas-red?style=flat&logo=pandas&logoColor=white)
