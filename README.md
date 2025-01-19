@@ -1,36 +1,43 @@
-### Hi!👋 I'm Miguel
-- 🎓 I'm a PhD in mathematics ([here](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/start/0/rows/20/sortfield/score/sortorder/desc/searchtype/simple/query/miguel+pereira+equivariant/docId/95736) is my thesis if you want to take a look)
-- 👨‍💻️ I'm also interested in machine learning, algorithm design, and other CS topics
-- 🐍 I usually code in Python and write with LaTeX
-- 🤔 And I also enjoy trying to solve [brainteasers](https://github.com/miguelbper/jane-street-puzzles)
+# Hi there! 👋 I'm Miguel Pereira
 
-### Technologies
-![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudio&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-brightgreen?style=flat&logo=python&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Code-Haskell-brightgreen?style=flat&logo=haskell&logoColor=white) -->
-![](https://img.shields.io/badge/Code-LaTeX-brightgreen?style=flat&logo=latex&logoColor=white)
-![](https://img.shields.io/badge/Library-NumPy-red?style=flat&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Library-pandas-red?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Library-scikit--learn-red?style=flat&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Library-SymPy-red?style=flat&logo=sympy&logoColor=white)
-![](https://img.shields.io/badge/Library-SciPy-red?style=flat&logo=scipy&logoColor=white)
+👨‍💻 Machine Learning Engineer | 🎓 Math PhD | 💡 Problem Solver  
+Passionate about building efficient, elegant solutions to complex problems using Python, machine learning, and algorithms.
 
-<!--### Hi there 👋-->
+## 🚀 About Me
+- 🔭 I’m currently working on: [Jane Street Puzzles](https://github.com/miguelbper/jane-street-puzzles)
+- 🌱 I’m learning: Advanced MLOps tools and best practices.
+- 💬 Ask me about: Python, Machine Learning, and Maths.
 
-<!--
-**miguelbper/miguelbper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects
+- [Jane Street Puzzles](https://github.com/miguelbper/jane-street-puzzles): Solutions to past Jane Street Puzzles.
+- [Python Constraint Solver](https://github.com/miguelbper/pyprune): A simple Python library for constraint satisfaction problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+**Programming:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-teal?logo=latex&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-293036?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f44d27?logo=git&logoColor=white)
 
-<!-- https://shields.io/ -->
-<!-- https://simpleicons.org/ -->
+**Machine Learning:**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/-Lightning-7e4fff?logo=lightning&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f99f44?logo=scikitlearn&logoColor=white)
+
+**Data Analysis & Scientific Computing:**
+
+![NumPy](https://img.shields.io/badge/NumPy-4dabcf?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-130654?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5c7da2?logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-013243?logo=scipy&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3b5526?logo=python&logoColor=white)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelbper&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbper&layout=compact&theme=radical)
+
+
+<!-- https://imagecolorpicker.com/color-code/282828 --> 
