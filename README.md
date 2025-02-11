@@ -33,7 +33,7 @@ Passionate about building efficient, elegant solutions to complex problems using
 ![Pandas](https://img.shields.io/badge/Pandas-130654?logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5c7da2?logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-013243?logo=scipy&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-3b5526?logo=python&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3b5526?logo=sympy&logoColor=white)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelbper&show_icons=true&theme=radical)
