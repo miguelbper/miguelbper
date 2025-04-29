@@ -36,8 +36,9 @@ Passionate about building efficient, elegant solutions to complex problems using
 ![SymPy](https://img.shields.io/badge/SymPy-3b5526?logo=sympy&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelbper&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbper&layout=compact&theme=radical)
-
+<div style="display:flex;flex-direction:row;justify-content:center;">
+  <img height="140"  src="https://github-readme-stats.vercel.app/api?username=miguelbper&show_icons=true&theme=github_dark&hide=contribs,issues&rank_icon=github" alt="readme stats" style="margin: 0" /> 
+  <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbper&layout=compact&theme=github_dark" alt="salma-elbakkouri" style="margin: 0" />
+</div>
 
 <!-- https://imagecolorpicker.com/color-code/282828 --> 
