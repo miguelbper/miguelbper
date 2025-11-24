@@ -3,10 +3,7 @@
 👨‍💻 Machine Learning Engineer | 🎓 Math PhD
 
 ## 🌟 Featured Projects
-- [numerlab](https://github.com/miguelbper/numerlab): My codebase for the Numerai ML tournament.
-- [flash-select](https://github.com/miguelbper/flash-select): An extremely fast feature selection algorithm (fast implementation of [shap-select](https://github.com/transferwise/shap-select)) for ML regression problems.
 - [Jane Street Puzzles](https://github.com/miguelbper/jane-street-puzzles): Solutions to past Jane Street Puzzles.
-- [pyprune](https://github.com/miguelbper/pyprune): A simple Python library for constraint satisfaction problems.
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
